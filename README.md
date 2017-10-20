@@ -9,7 +9,7 @@ May be the most easy-to-use bencode parse under Python3<br>
 * Interact with native Python data structures without gap.
 * Out-of-box BitTorrent file parsing supported, including BitTorrent to magnet convert.
 
-##特性：
+## 特性：
 
 * 纯Python实现。
 * 与Python原生数据结构无缝交互。
