@@ -18,13 +18,13 @@ May be the most easy-to-use bencode parse under Python3<br>
 ## Install:
 
 ```
-pip install pretty-bencode
+pip install pretty-bencode3
 ```
 
 ## 安装：
 
 ```
-pip install pretty-bencode
+pip install pretty-bencode3
 ```
 
 ## More Info:
